@@ -1,6 +1,6 @@
-**Leveraging AI in RSA Fortoeization Using Shor's Algorithm on IBM Quantum Experience**
+## Leveraging AI in RSA Factorization Using Shor's Algorithm on IBM Quantum Experience
 
-## Author: Dominic Udousoro <dominicudousoro@gmail.com>
+**Author: Dominic Udousoro <dominicudousoro@gmail.com>**
 
 This study adopted a structured experimental approach leveraging IBM Quantum Experience for RSA key factorization using Shor’s algorithm and AI models for monitoring and analysis of the impact of quantum computing advancements on the security of classical cryptographic protocols and explores the role of Artificial Intelligence (AI) in developing quantum-resilient cybersecurity solutions.
 
