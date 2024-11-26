@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Step 1: Generate Hypothetical Data
+# Step 1: Using data from Shor's Algorithm experiment conducted on IBM Quantum Experience
 data = {
     "RSA_Key_Size": [15, 21, 35, 39, 77, 91],
     "Qubit_Count": [5, 5, 9, 9, 27, 27],
